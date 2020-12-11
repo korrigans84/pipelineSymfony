@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f57b4860-1b8a-44fa-bd66-51649be1e72a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ebextensions/composer.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f57b4860-1b8a-44fa-bd66-51649be1e72a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607676740441</updated>
       <workItem from="1607676741678" duration="3533000" />
-      <workItem from="1607687331192" duration="570000" />
+      <workItem from="1607687331192" duration="1446000" />
     </task>
     <servers />
   </component>
