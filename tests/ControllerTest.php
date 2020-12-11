@@ -12,4 +12,8 @@ class ControllerTest extends TestCase
     {
         $this->assertEquals(42, 42);
     }
+    public function testAdd2()
+    {
+        $this->assertEquals(42, 42);
+    }
 }
